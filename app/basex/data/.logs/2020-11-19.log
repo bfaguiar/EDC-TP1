@@ -1,0 +1,804 @@
+15:36:41.589	SERVER	admin	OK	Server was started (port: 1984).
+15:36:42.922	SERVER	admin	OK	Server was stopped (port: 1984).
+15:36:51.539	SERVER	admin	OK	Server was started (port: 1984).
+15:37:06.087	127.0.0.1:52242	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	4.4 ms
+15:37:06.228	127.0.0.1:52242	admin	REQUEST	EXEC[0]	139.95 ms
+15:37:06.228	127.0.0.1:52242	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.15 ms
+15:37:06.252	127.0.0.1:52242	admin	REQUEST	EXIT	23.95 ms
+15:37:06.253	127.0.0.1:52242	admin	OK		0.93 ms
+15:37:18.249	127.0.0.1:52251	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.27 ms
+15:37:18.250	127.0.0.1:52251	admin	REQUEST	EXEC[0]	0.76 ms
+15:37:18.250	127.0.0.1:52251	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.15 ms
+15:37:18.251	127.0.0.1:52251	admin	REQUEST	EXIT	0.48 ms
+15:37:18.251	127.0.0.1:52251	admin	OK		0.2 ms
+15:37:44.386	127.0.0.1:52252	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.19 ms
+15:37:44.387	127.0.0.1:52252	admin	REQUEST	EXEC[0]	0.65 ms
+15:37:44.387	127.0.0.1:52252	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.14 ms
+15:37:44.388	127.0.0.1:52252	admin	REQUEST	EXIT	0.37 ms
+15:37:44.388	127.0.0.1:52252	admin	OK		0.24 ms
+15:38:08.043	127.0.0.1:52255	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.19 ms
+15:38:08.044	127.0.0.1:52255	admin	REQUEST	EXEC[0]	0.7 ms
+15:38:08.044	127.0.0.1:52255	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.18 ms
+15:38:08.045	127.0.0.1:52255	admin	REQUEST	EXIT	0.42 ms
+15:38:08.045	127.0.0.1:52255	admin	OK		0.26 ms
+15:39:04.123	SERVER	admin	OK	Server was stopped (port: 1984).
+15:39:05.056	SERVER	admin	OK	Server was started (port: 1984).
+15:39:06.991	127.0.0.1:52268	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	3.67 ms
+15:39:07.088	127.0.0.1:52268	admin	REQUEST	EXEC[0]	96.48 ms
+15:39:07.088	127.0.0.1:52268	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.15 ms
+15:39:07.105	127.0.0.1:52268	admin	REQUEST	EXIT	16.99 ms
+15:39:07.106	127.0.0.1:52268	admin	OK		0.6 ms
+15:39:13.328	127.0.0.1:52269	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.19 ms
+15:39:13.329	127.0.0.1:52269	admin	REQUEST	EXEC[0]	0.78 ms
+15:39:13.329	127.0.0.1:52269	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.15 ms
+15:39:13.330	127.0.0.1:52269	admin	REQUEST	EXIT	0.41 ms
+15:39:13.330	127.0.0.1:52269	admin	OK		0.25 ms
+15:40:02.042	SERVER	admin	OK	Server was stopped (port: 1984).
+15:40:16.583	SERVER	admin	OK	Server was started (port: 1984).
+15:40:24.070	127.0.0.1:52272	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	4.31 ms
+15:40:24.153	127.0.0.1:52272	admin	REQUEST	EXEC[0]	82.39 ms
+15:40:24.154	127.0.0.1:52272	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.26 ms
+15:40:24.170	127.0.0.1:52272	admin	REQUEST	EXIT	15.74 ms
+15:40:24.171	127.0.0.1:52272	admin	OK		0.91 ms
+15:40:26.697	127.0.0.1:52273	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.17 ms
+15:40:26.698	127.0.0.1:52273	admin	REQUEST	EXEC[0]	0.66 ms
+15:40:26.698	127.0.0.1:52273	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.13 ms
+15:40:26.699	127.0.0.1:52273	admin	REQUEST	EXIT	0.38 ms
+15:40:26.699	127.0.0.1:52273	admin	OK		0.19 ms
+15:40:30.910	127.0.0.1:52275	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.15 ms
+15:40:30.911	127.0.0.1:52275	admin	REQUEST	EXEC[0]	0.66 ms
+15:40:30.911	127.0.0.1:52275	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/music.xqm.	0.13 ms
+15:40:30.912	127.0.0.1:52275	admin	REQUEST	EXIT	0.36 ms
+15:40:30.912	127.0.0.1:52275	admin	OK		0.18 ms
+15:41:29.891	SERVER	admin	OK	Server was stopped (port: 1984).
+15:41:55.536	SERVER	admin	OK	Server was started (port: 1984).
+15:42:00.292	127.0.0.1:52283	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	3.63 ms
+15:42:00.866	127.0.0.1:52283	admin	OK	EXEC[0]	573.26 ms
+15:42:00.866	127.0.0.1:52283	admin	OK	CLOSE[0]	0.11 ms
+15:42:00.868	127.0.0.1:52284	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.24 ms
+15:42:00.882	127.0.0.1:52283	admin	REQUEST	EXIT	15.66 ms
+15:42:00.882	127.0.0.1:52283	admin	OK		0.24 ms
+15:42:00.883	127.0.0.1:52284	admin	OK	EXEC[0]	14.53 ms
+15:42:00.884	127.0.0.1:52284	admin	OK	CLOSE[0]	0.09 ms
+15:42:00.884	127.0.0.1:52284	admin	REQUEST	EXIT	0.4 ms
+15:42:00.884	127.0.0.1:52284	admin	OK		0.16 ms
+15:42:06.074	SERVER	admin	OK	Server was stopped (port: 1984).
+15:42:30.883	SERVER	admin	OK	Server was started (port: 1984).
+15:42:33.473	127.0.0.1:52286	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	3.76 ms
+15:42:33.557	127.0.0.1:52286	admin	REQUEST	EXEC[0]	83.79 ms
+15:42:33.557	127.0.0.1:52286	admin	ERROR	Stopped at ., 1/65: [XQST0059] Could not retrieve module: /Users/brunoaguiar/Desktop/universidade/4ano/EDC/EDC-TP1/app/music.xqm.	0.14 ms
+15:42:33.574	127.0.0.1:52286	admin	REQUEST	EXIT	16.79 ms
+15:42:33.575	127.0.0.1:52286	admin	OK		0.59 ms
+15:42:35.626	SERVER	admin	OK	Server was stopped (port: 1984).
+15:42:46.757	SERVER	admin	OK	Server was started (port: 1984).
+15:42:49.302	127.0.0.1:52288	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	3.53 ms
+15:42:49.802	127.0.0.1:52288	admin	OK	EXEC[0]	499.01 ms
+15:42:49.802	127.0.0.1:52288	admin	OK	CLOSE[0]	0.11 ms
+15:42:49.805	127.0.0.1:52289	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.18 ms
+15:42:49.817	127.0.0.1:52289	admin	OK	EXEC[0]	12.22 ms
+15:42:49.817	127.0.0.1:52289	admin	OK	CLOSE[0]	0.12 ms
+15:42:49.818	127.0.0.1:52288	admin	REQUEST	EXIT	15.04 ms
+15:42:49.818	127.0.0.1:52289	admin	REQUEST	EXIT	0.32 ms
+15:42:49.818	127.0.0.1:52288	admin	OK		0.31 ms
+15:42:49.818	127.0.0.1:52289	admin	OK		0.2 ms
+15:42:51.875	127.0.0.1:52291	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.15 ms
+15:42:51.885	127.0.0.1:52291	admin	OK	EXEC[0]	10.07 ms
+15:42:51.885	127.0.0.1:52291	admin	OK	CLOSE[0]	0.1 ms
+15:42:51.886	127.0.0.1:52291	admin	REQUEST	EXIT	0.43 ms
+15:42:51.886	127.0.0.1:52291	admin	OK		0.2 ms
+15:42:53.504	127.0.0.1:52293	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("7 rings", "Ariana Grande")	0.23 ms
+15:42:53.566	127.0.0.1:52293	admin	OK	EXEC[0]	61.17 ms
+15:42:53.566	127.0.0.1:52293	admin	OK	CLOSE[0]	0.07 ms
+15:42:53.567	127.0.0.1:52293	admin	REQUEST	EXIT	0.43 ms
+15:42:53.567	127.0.0.1:52293	admin	OK		0.2 ms
+15:42:53.575	127.0.0.1:52294	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.12 ms
+15:42:53.582	127.0.0.1:52294	admin	OK	EXEC[0]	6.39 ms
+15:42:53.582	127.0.0.1:52294	admin	OK	CLOSE[0]	0.13 ms
+15:42:53.583	127.0.0.1:52294	admin	REQUEST	EXIT	0.33 ms
+15:42:53.583	127.0.0.1:52294	admin	OK		0.15 ms
+15:42:54.446	127.0.0.1:52296	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.25 ms
+15:42:54.454	127.0.0.1:52296	admin	OK	EXEC[0]	7.42 ms
+15:42:54.454	127.0.0.1:52296	admin	OK	CLOSE[0]	0.07 ms
+15:42:54.455	127.0.0.1:52296	admin	REQUEST	EXIT	0.56 ms
+15:42:54.455	127.0.0.1:52296	admin	OK		0.2 ms
+15:42:55.758	127.0.0.1:52298	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.2 ms
+15:42:55.776	127.0.0.1:52298	admin	OK	EXEC[0]	18.11 ms
+15:42:55.776	127.0.0.1:52298	admin	OK	CLOSE[0]	0.1 ms
+15:42:55.777	127.0.0.1:52298	admin	REQUEST	EXIT	0.47 ms
+15:42:55.777	127.0.0.1:52298	admin	OK		0.26 ms
+15:42:55.778	127.0.0.1:52299	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.3 ms
+15:42:55.785	127.0.0.1:52299	admin	OK	EXEC[0]	5.75 ms
+15:42:55.785	127.0.0.1:52299	admin	OK	CLOSE[0]	0.1 ms
+15:42:55.786	127.0.0.1:52299	admin	REQUEST	EXIT	0.53 ms
+15:42:55.786	127.0.0.1:52299	admin	OK		0.22 ms
+15:42:56.889	127.0.0.1:52301	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Harry Styles", "Adore You")	0.17 ms
+15:42:56.923	127.0.0.1:52301	admin	OK	EXEC[0]	33.81 ms
+15:42:56.923	127.0.0.1:52301	admin	OK	CLOSE[0]	0.07 ms
+15:42:56.924	127.0.0.1:52301	admin	REQUEST	EXIT	0.53 ms
+15:42:56.924	127.0.0.1:52301	admin	OK		0.27 ms
+15:42:56.994	127.0.0.1:52302	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.23 ms
+15:42:57.010	127.0.0.1:52302	admin	OK	EXEC[0]	15.98 ms
+15:42:57.011	127.0.0.1:52302	admin	OK	CLOSE[0]	0.13 ms
+15:42:57.012	127.0.0.1:52302	admin	REQUEST	EXIT	0.58 ms
+15:42:57.012	127.0.0.1:52302	admin	OK		0.27 ms
+15:42:57.013	127.0.0.1:52303	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.13 ms
+15:42:57.020	127.0.0.1:52303	admin	OK	EXEC[0]	7.23 ms
+15:42:57.021	127.0.0.1:52303	admin	OK	CLOSE[0]	0.12 ms
+15:42:57.021	127.0.0.1:52303	admin	REQUEST	EXIT	0.39 ms
+15:42:57.021	127.0.0.1:52303	admin	OK		0.13 ms
+15:42:58.071	127.0.0.1:52305	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Wallows", "Are You Bored Yet? (feat. Clairo)")	0.19 ms
+15:42:58.089	127.0.0.1:52305	admin	OK	EXEC[0]	17.91 ms
+15:42:58.089	127.0.0.1:52305	admin	OK	CLOSE[0]	0.11 ms
+15:42:58.090	127.0.0.1:52305	admin	REQUEST	EXIT	0.57 ms
+15:42:58.090	127.0.0.1:52305	admin	OK		0.26 ms
+15:42:58.168	127.0.0.1:52306	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.18 ms
+15:42:58.181	127.0.0.1:52306	admin	OK	EXEC[0]	12.25 ms
+15:42:58.181	127.0.0.1:52306	admin	OK	CLOSE[0]	0.08 ms
+15:42:58.182	127.0.0.1:52306	admin	REQUEST	EXIT	0.66 ms
+15:42:58.182	127.0.0.1:52306	admin	OK		0.3 ms
+15:42:58.183	127.0.0.1:52307	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.14 ms
+15:42:58.190	127.0.0.1:52307	admin	OK	EXEC[0]	6.4 ms
+15:42:58.190	127.0.0.1:52307	admin	OK	CLOSE[0]	0.11 ms
+15:42:58.191	127.0.0.1:52307	admin	REQUEST	EXIT	0.45 ms
+15:42:58.191	127.0.0.1:52307	admin	OK		0.17 ms
+15:42:59.197	127.0.0.1:52309	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.19 ms
+15:42:59.203	127.0.0.1:52309	admin	OK	EXEC[0]	6.15 ms
+15:42:59.204	127.0.0.1:52309	admin	OK	CLOSE[0]	0.28 ms
+15:42:59.204	127.0.0.1:52309	admin	REQUEST	EXIT	0.38 ms
+15:42:59.205	127.0.0.1:52309	admin	OK		0.16 ms
+15:43:00.522	127.0.0.1:52311	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Adore You", "Harry Styles")	0.16 ms
+15:43:00.535	127.0.0.1:52311	admin	OK	EXEC[0]	12.74 ms
+15:43:00.535	127.0.0.1:52311	admin	OK	CLOSE[0]	0.12 ms
+15:43:00.536	127.0.0.1:52311	admin	REQUEST	EXIT	0.68 ms
+15:43:00.536	127.0.0.1:52311	admin	OK		0.23 ms
+15:43:00.544	127.0.0.1:52312	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.16 ms
+15:43:00.551	127.0.0.1:52312	admin	OK	EXEC[0]	7.0 ms
+15:43:00.552	127.0.0.1:52312	admin	OK	CLOSE[0]	0.17 ms
+15:43:00.553	127.0.0.1:52312	admin	REQUEST	EXIT	0.68 ms
+15:43:00.553	127.0.0.1:52312	admin	OK		0.3 ms
+15:43:02.262	127.0.0.1:52314	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.12 ms
+15:43:02.270	127.0.0.1:52314	admin	OK	EXEC[0]	7.52 ms
+15:43:02.270	127.0.0.1:52314	admin	OK	CLOSE[0]	0.08 ms
+15:43:02.271	127.0.0.1:52314	admin	REQUEST	EXIT	0.43 ms
+15:43:02.271	127.0.0.1:52314	admin	OK		0.18 ms
+15:43:03.754	127.0.0.1:52316	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.15 ms
+15:43:03.763	127.0.0.1:52316	admin	OK	EXEC[0]	8.58 ms
+15:43:03.764	127.0.0.1:52316	admin	OK	CLOSE[0]	0.1 ms
+15:43:03.764	127.0.0.1:52316	admin	REQUEST	EXIT	0.43 ms
+15:43:03.765	127.0.0.1:52316	admin	OK		0.17 ms
+15:43:03.766	127.0.0.1:52317	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.1 ms
+15:43:03.771	127.0.0.1:52317	admin	OK	EXEC[0]	5.16 ms
+15:43:03.771	127.0.0.1:52317	admin	OK	CLOSE[0]	0.08 ms
+15:43:03.772	127.0.0.1:52317	admin	REQUEST	EXIT	0.52 ms
+15:43:03.772	127.0.0.1:52317	admin	OK		0.19 ms
+15:43:07.237	127.0.0.1:52320	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.2 ms
+15:43:07.243	127.0.0.1:52320	admin	OK	EXEC[0]	5.82 ms
+15:43:07.244	127.0.0.1:52320	admin	OK	CLOSE[0]	0.08 ms
+15:43:07.245	127.0.0.1:52320	admin	REQUEST	EXIT	0.43 ms
+15:43:07.245	127.0.0.1:52320	admin	OK		0.27 ms
+15:43:09.467	127.0.0.1:52322	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.15 ms
+15:43:09.480	127.0.0.1:52322	admin	OK	EXEC[0]	12.66 ms
+15:43:09.481	127.0.0.1:52322	admin	OK	CLOSE[0]	0.06 ms
+15:43:09.481	127.0.0.1:52322	admin	REQUEST	EXIT	0.3 ms
+15:43:09.481	127.0.0.1:52322	admin	OK		0.12 ms
+15:43:09.482	127.0.0.1:52323	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.14 ms
+15:43:09.486	127.0.0.1:52323	admin	OK	EXEC[0]	3.84 ms
+15:43:09.487	127.0.0.1:52323	admin	OK	CLOSE[0]	0.07 ms
+15:43:09.487	127.0.0.1:52323	admin	REQUEST	EXIT	0.33 ms
+15:43:09.487	127.0.0.1:52323	admin	OK		0.12 ms
+15:43:10.198	127.0.0.1:52325	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Ariana Grande")	0.15 ms
+15:43:10.205	127.0.0.1:52325	admin	OK	EXEC[0]	6.16 ms
+15:43:10.205	127.0.0.1:52325	admin	OK	CLOSE[0]	0.07 ms
+15:43:10.206	127.0.0.1:52325	admin	REQUEST	EXIT	0.37 ms
+15:43:10.206	127.0.0.1:52325	admin	OK		0.16 ms
+15:43:29.803	127.0.0.1:52355	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.15 ms
+15:43:29.810	127.0.0.1:52355	admin	OK	EXEC[0]	7.29 ms
+15:43:29.811	127.0.0.1:52355	admin	OK	CLOSE[0]	0.1 ms
+15:43:29.811	127.0.0.1:52355	admin	REQUEST	EXIT	0.56 ms
+15:43:29.812	127.0.0.1:52355	admin	OK		0.25 ms
+15:43:29.813	127.0.0.1:52356	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.12 ms
+15:43:29.817	127.0.0.1:52356	admin	OK	EXEC[0]	4.34 ms
+15:43:29.818	127.0.0.1:52356	admin	OK	CLOSE[0]	0.07 ms
+15:43:29.818	127.0.0.1:52356	admin	REQUEST	EXIT	0.41 ms
+15:43:29.818	127.0.0.1:52356	admin	OK		0.14 ms
+15:43:31.977	127.0.0.1:52358	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Radiohead")	0.12 ms
+15:43:31.984	127.0.0.1:52358	admin	OK	EXEC[0]	6.22 ms
+15:43:31.984	127.0.0.1:52358	admin	OK	CLOSE[0]	0.06 ms
+15:43:31.985	127.0.0.1:52358	admin	REQUEST	EXIT	0.43 ms
+15:43:31.985	127.0.0.1:52358	admin	OK		0.16 ms
+15:43:35.202	127.0.0.1:52360	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopPortugal()	0.12 ms
+15:43:35.206	127.0.0.1:52360	admin	OK	EXEC[0]	4.21 ms
+15:43:35.206	127.0.0.1:52360	admin	OK	CLOSE[0]	0.05 ms
+15:43:35.207	127.0.0.1:52360	admin	REQUEST	EXIT	0.31 ms
+15:43:35.207	127.0.0.1:52360	admin	OK		0.17 ms
+15:43:37.086	127.0.0.1:52362	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.14 ms
+15:43:37.092	127.0.0.1:52362	admin	OK	EXEC[0]	6.15 ms
+15:43:37.093	127.0.0.1:52362	admin	OK	CLOSE[0]	0.06 ms
+15:43:37.093	127.0.0.1:52362	admin	REQUEST	EXIT	0.44 ms
+15:43:37.093	127.0.0.1:52362	admin	OK		0.18 ms
+15:43:37.095	127.0.0.1:52363	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.15 ms
+15:43:37.099	127.0.0.1:52363	admin	OK	EXEC[0]	4.02 ms
+15:43:37.099	127.0.0.1:52363	admin	OK	CLOSE[0]	0.05 ms
+15:43:37.100	127.0.0.1:52363	admin	REQUEST	EXIT	0.43 ms
+15:43:37.100	127.0.0.1:52363	admin	OK		0.18 ms
+15:43:38.629	127.0.0.1:52365	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("The Weeknd")	0.14 ms
+15:43:38.636	127.0.0.1:52365	admin	OK	EXEC[0]	6.36 ms
+15:43:38.636	127.0.0.1:52365	admin	OK	CLOSE[0]	0.06 ms
+15:43:38.637	127.0.0.1:52365	admin	REQUEST	EXIT	0.35 ms
+15:43:38.637	127.0.0.1:52365	admin	OK		0.15 ms
+15:43:41.097	127.0.0.1:52367	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.18 ms
+15:43:41.102	127.0.0.1:52367	admin	OK	EXEC[0]	5.46 ms
+15:43:41.103	127.0.0.1:52367	admin	OK	CLOSE[0]	0.06 ms
+15:43:41.103	127.0.0.1:52367	admin	REQUEST	EXIT	0.44 ms
+15:43:41.103	127.0.0.1:52367	admin	OK		0.2 ms
+15:43:42.721	127.0.0.1:52369	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Wallows")	0.13 ms
+15:43:42.726	127.0.0.1:52369	admin	OK	EXEC[0]	5.05 ms
+15:43:42.726	127.0.0.1:52369	admin	OK	CLOSE[0]	0.06 ms
+15:43:42.727	127.0.0.1:52369	admin	REQUEST	EXIT	0.35 ms
+15:43:42.727	127.0.0.1:52369	admin	OK		0.16 ms
+15:43:53.788	127.0.0.1:52373	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.11 ms
+15:43:53.792	127.0.0.1:52373	admin	OK	EXEC[0]	4.39 ms
+15:43:53.793	127.0.0.1:52373	admin	OK	CLOSE[0]	0.06 ms
+15:43:53.793	127.0.0.1:52373	admin	REQUEST	EXIT	0.29 ms
+15:43:53.793	127.0.0.1:52373	admin	OK		0.12 ms
+15:44:10.316	127.0.0.1:52381	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.29 ms
+15:44:10.320	127.0.0.1:52381	admin	OK	EXEC[0]	3.96 ms
+15:44:10.321	127.0.0.1:52381	admin	OK	CLOSE[0]	0.06 ms
+15:44:10.321	127.0.0.1:52381	admin	REQUEST	EXIT	0.49 ms
+15:44:10.321	127.0.0.1:52381	admin	OK		0.15 ms
+15:44:11.743	127.0.0.1:52383	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.14 ms
+15:44:11.749	127.0.0.1:52383	admin	OK	EXEC[0]	5.31 ms
+15:44:11.749	127.0.0.1:52383	admin	OK	CLOSE[0]	0.07 ms
+15:44:11.750	127.0.0.1:52383	admin	REQUEST	EXIT	0.42 ms
+15:44:11.750	127.0.0.1:52383	admin	OK		0.22 ms
+15:44:11.751	127.0.0.1:52384	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.14 ms
+15:44:11.755	127.0.0.1:52384	admin	OK	EXEC[0]	3.86 ms
+15:44:11.755	127.0.0.1:52384	admin	OK	CLOSE[0]	0.05 ms
+15:44:11.756	127.0.0.1:52384	admin	REQUEST	EXIT	0.28 ms
+15:44:11.756	127.0.0.1:52384	admin	OK		0.13 ms
+15:44:19.875	127.0.0.1:52387	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopPortugal()	0.15 ms
+15:44:19.880	127.0.0.1:52387	admin	OK	EXEC[0]	4.19 ms
+15:44:19.880	127.0.0.1:52387	admin	OK	CLOSE[0]	0.05 ms
+15:44:19.881	127.0.0.1:52387	admin	REQUEST	EXIT	0.36 ms
+15:44:19.881	127.0.0.1:52387	admin	OK		0.13 ms
+15:44:21.143	127.0.0.1:52389	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Arctic Monkeys")	0.13 ms
+15:44:21.150	127.0.0.1:52389	admin	OK	EXEC[0]	6.48 ms
+15:44:21.150	127.0.0.1:52389	admin	OK	CLOSE[0]	0.05 ms
+15:44:21.151	127.0.0.1:52389	admin	REQUEST	EXIT	0.45 ms
+15:44:21.151	127.0.0.1:52389	admin	OK		0.24 ms
+16:03:05.338	127.0.0.1:52607	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.16 ms
+16:03:05.347	127.0.0.1:52607	admin	OK	EXEC[0]	9.03 ms
+16:03:05.348	127.0.0.1:52607	admin	OK	CLOSE[0]	0.13 ms
+16:03:05.348	127.0.0.1:52607	admin	REQUEST	EXIT	0.31 ms
+16:03:05.348	127.0.0.1:52607	admin	OK		0.1 ms
+16:05:34.147	127.0.0.1:52614	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.21 ms
+16:05:34.152	127.0.0.1:52614	admin	OK	EXEC[0]	5.53 ms
+16:05:34.153	127.0.0.1:52614	admin	OK	CLOSE[0]	0.08 ms
+16:05:34.153	127.0.0.1:52614	admin	REQUEST	EXIT	0.35 ms
+16:05:34.153	127.0.0.1:52614	admin	OK		0.15 ms
+16:05:34.155	127.0.0.1:52615	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.11 ms
+16:05:34.158	127.0.0.1:52615	admin	OK	EXEC[0]	3.41 ms
+16:05:34.159	127.0.0.1:52615	admin	OK	CLOSE[0]	0.07 ms
+16:05:34.159	127.0.0.1:52615	admin	REQUEST	EXIT	0.42 ms
+16:05:34.159	127.0.0.1:52615	admin	OK		0.13 ms
+16:05:36.132	127.0.0.1:52617	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.11 ms
+16:05:36.136	127.0.0.1:52617	admin	OK	EXEC[0]	4.0 ms
+16:05:36.136	127.0.0.1:52617	admin	OK	CLOSE[0]	0.05 ms
+16:05:36.137	127.0.0.1:52617	admin	REQUEST	EXIT	0.4 ms
+16:05:36.137	127.0.0.1:52617	admin	OK		0.15 ms
+16:05:39.052	127.0.0.1:52619	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.17 ms
+16:05:39.056	127.0.0.1:52619	admin	OK	EXEC[0]	3.81 ms
+16:05:39.057	127.0.0.1:52619	admin	OK	CLOSE[0]	0.05 ms
+16:05:39.057	127.0.0.1:52619	admin	REQUEST	EXIT	0.23 ms
+16:05:39.057	127.0.0.1:52619	admin	OK		0.14 ms
+16:05:40.484	127.0.0.1:52621	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopPortugal()	0.11 ms
+16:05:40.490	127.0.0.1:52621	admin	OK	EXEC[0]	5.57 ms
+16:05:40.491	127.0.0.1:52621	admin	OK	CLOSE[0]	0.08 ms
+16:05:40.491	127.0.0.1:52621	admin	REQUEST	EXIT	0.42 ms
+16:05:40.492	127.0.0.1:52621	admin	OK		0.32 ms
+16:05:41.117	127.0.0.1:52623	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Arctic Monkeys")	0.11 ms
+16:05:41.125	127.0.0.1:52623	admin	OK	EXEC[0]	6.79 ms
+16:05:41.125	127.0.0.1:52623	admin	OK	CLOSE[0]	0.05 ms
+16:05:41.126	127.0.0.1:52623	admin	REQUEST	EXIT	0.33 ms
+16:05:41.126	127.0.0.1:52623	admin	OK		0.5 ms
+16:05:43.955	127.0.0.1:52625	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.18 ms
+16:05:43.960	127.0.0.1:52625	admin	OK	EXEC[0]	4.3 ms
+16:05:43.960	127.0.0.1:52625	admin	OK	CLOSE[0]	0.04 ms
+16:05:43.961	127.0.0.1:52625	admin	REQUEST	EXIT	0.26 ms
+16:05:43.961	127.0.0.1:52625	admin	OK		0.13 ms
+16:05:44.700	127.0.0.1:52627	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Arctic Monkeys")	0.11 ms
+16:05:44.705	127.0.0.1:52627	admin	OK	EXEC[0]	4.7 ms
+16:05:44.706	127.0.0.1:52627	admin	OK	CLOSE[0]	0.06 ms
+16:05:44.706	127.0.0.1:52627	admin	REQUEST	EXIT	0.36 ms
+16:05:44.706	127.0.0.1:52627	admin	OK		0.12 ms
+16:06:42.540	127.0.0.1:52632	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.09 ms
+16:06:42.544	127.0.0.1:52632	admin	OK	EXEC[0]	4.56 ms
+16:06:42.545	127.0.0.1:52632	admin	OK	CLOSE[0]	0.05 ms
+16:06:42.545	127.0.0.1:52632	admin	REQUEST	EXIT	0.41 ms
+16:06:42.545	127.0.0.1:52632	admin	OK		0.2 ms
+16:06:42.547	127.0.0.1:52633	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.12 ms
+16:06:42.550	127.0.0.1:52633	admin	OK	EXEC[0]	2.99 ms
+16:06:42.550	127.0.0.1:52633	admin	OK	CLOSE[0]	0.04 ms
+16:06:42.551	127.0.0.1:52633	admin	REQUEST	EXIT	0.24 ms
+16:06:42.551	127.0.0.1:52633	admin	OK		0.12 ms
+16:06:48.365	127.0.0.1:52635	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.12 ms
+16:06:48.368	127.0.0.1:52635	admin	OK	EXEC[0]	3.41 ms
+16:06:48.369	127.0.0.1:52635	admin	OK	CLOSE[0]	0.12 ms
+16:06:48.370	127.0.0.1:52635	admin	REQUEST	EXIT	0.42 ms
+16:06:48.370	127.0.0.1:52635	admin	OK		0.22 ms
+16:06:50.112	127.0.0.1:52637	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.23 ms
+16:06:50.117	127.0.0.1:52637	admin	OK	EXEC[0]	4.29 ms
+16:06:50.117	127.0.0.1:52637	admin	OK	CLOSE[0]	0.05 ms
+16:06:50.117	127.0.0.1:52637	admin	REQUEST	EXIT	0.39 ms
+16:06:50.118	127.0.0.1:52637	admin	OK		0.19 ms
+16:06:50.119	127.0.0.1:52638	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.08 ms
+16:06:50.122	127.0.0.1:52638	admin	OK	EXEC[0]	3.49 ms
+16:06:50.123	127.0.0.1:52638	admin	OK	CLOSE[0]	0.06 ms
+16:06:50.123	127.0.0.1:52638	admin	REQUEST	EXIT	0.37 ms
+16:06:50.124	127.0.0.1:52638	admin	OK		0.23 ms
+16:06:51.912	127.0.0.1:52640	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Ariana Grande")	0.14 ms
+16:06:51.918	127.0.0.1:52640	admin	OK	EXEC[0]	5.63 ms
+16:06:51.919	127.0.0.1:52640	admin	OK	CLOSE[0]	0.07 ms
+16:06:51.919	127.0.0.1:52640	admin	REQUEST	EXIT	0.29 ms
+16:06:51.919	127.0.0.1:52640	admin	OK		0.12 ms
+16:12:56.642	127.0.0.1:52669	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.1 ms
+16:12:56.653	127.0.0.1:52669	admin	OK	EXEC[0]	9.69 ms
+16:12:56.653	127.0.0.1:52669	admin	OK	CLOSE[0]	0.04 ms
+16:12:56.653	127.0.0.1:52669	admin	REQUEST	EXIT	0.35 ms
+16:12:56.654	127.0.0.1:52669	admin	OK		0.13 ms
+16:12:56.655	127.0.0.1:52670	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.09 ms
+16:12:56.660	127.0.0.1:52670	admin	OK	EXEC[0]	5.17 ms
+16:12:56.660	127.0.0.1:52670	admin	OK	CLOSE[0]	0.04 ms
+16:12:56.661	127.0.0.1:52670	admin	REQUEST	EXIT	0.29 ms
+16:12:56.661	127.0.0.1:52670	admin	OK		0.14 ms
+16:13:16.635	127.0.0.1:52672	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Harry Styles", "Adore You")	0.15 ms
+16:13:16.679	127.0.0.1:52672	admin	OK	EXEC[0]	43.7 ms
+16:13:16.679	127.0.0.1:52672	admin	OK	CLOSE[0]	0.07 ms
+16:13:16.680	127.0.0.1:52672	admin	REQUEST	EXIT	0.41 ms
+16:13:16.680	127.0.0.1:52672	admin	OK		0.21 ms
+16:13:16.763	127.0.0.1:52673	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.11 ms
+16:13:16.768	127.0.0.1:52673	admin	OK	EXEC[0]	4.62 ms
+16:13:16.769	127.0.0.1:52673	admin	OK	CLOSE[0]	0.06 ms
+16:13:16.769	127.0.0.1:52673	admin	REQUEST	EXIT	0.73 ms
+16:13:16.770	127.0.0.1:52673	admin	OK		0.26 ms
+16:13:16.772	127.0.0.1:52674	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.18 ms
+16:13:16.777	127.0.0.1:52674	admin	OK	EXEC[0]	4.57 ms
+16:13:16.777	127.0.0.1:52674	admin	OK	CLOSE[0]	0.05 ms
+16:13:16.778	127.0.0.1:52674	admin	REQUEST	EXIT	0.39 ms
+16:13:16.778	127.0.0.1:52674	admin	OK		0.2 ms
+16:13:19.346	127.0.0.1:52676	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.17 ms
+16:13:19.350	127.0.0.1:52676	admin	OK	EXEC[0]	3.7 ms
+16:13:19.350	127.0.0.1:52676	admin	OK	CLOSE[0]	0.06 ms
+16:13:19.351	127.0.0.1:52676	admin	REQUEST	EXIT	0.46 ms
+16:13:19.351	127.0.0.1:52676	admin	OK		0.19 ms
+16:13:23.676	127.0.0.1:52678	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Adore You", "Harry Styles")	0.11 ms
+16:13:23.688	127.0.0.1:52678	admin	OK	EXEC[0]	11.28 ms
+16:13:23.688	127.0.0.1:52678	admin	OK	CLOSE[0]	0.12 ms
+16:13:23.689	127.0.0.1:52678	admin	REQUEST	EXIT	0.47 ms
+16:13:23.689	127.0.0.1:52678	admin	OK		0.25 ms
+16:13:23.697	127.0.0.1:52679	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.12 ms
+16:13:23.703	127.0.0.1:52679	admin	OK	EXEC[0]	5.58 ms
+16:13:23.703	127.0.0.1:52679	admin	OK	CLOSE[0]	0.06 ms
+16:13:23.704	127.0.0.1:52679	admin	REQUEST	EXIT	0.41 ms
+16:13:23.704	127.0.0.1:52679	admin	OK		0.18 ms
+16:13:25.377	127.0.0.1:52683	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Are You Bored Yet? (feat. Clairo)", "Wallows")	0.23 ms
+16:13:25.389	127.0.0.1:52683	admin	OK	EXEC[0]	11.64 ms
+16:13:25.390	127.0.0.1:52683	admin	OK	CLOSE[0]	0.07 ms
+16:13:25.390	127.0.0.1:52683	admin	REQUEST	EXIT	0.55 ms
+16:13:25.391	127.0.0.1:52683	admin	OK		0.23 ms
+16:13:25.399	127.0.0.1:52684	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.13 ms
+16:13:25.406	127.0.0.1:52684	admin	OK	EXEC[0]	6.27 ms
+16:13:25.407	127.0.0.1:52684	admin	OK	CLOSE[0]	0.19 ms
+16:13:25.408	127.0.0.1:52684	admin	REQUEST	EXIT	0.9 ms
+16:13:25.408	127.0.0.1:52684	admin	OK		0.42 ms
+16:13:27.827	127.0.0.1:52686	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.11 ms
+16:13:27.834	127.0.0.1:52686	admin	OK	EXEC[0]	6.14 ms
+16:13:27.834	127.0.0.1:52686	admin	OK	CLOSE[0]	0.05 ms
+16:13:27.835	127.0.0.1:52686	admin	REQUEST	EXIT	0.42 ms
+16:13:27.835	127.0.0.1:52686	admin	OK		0.14 ms
+16:13:27.836	127.0.0.1:52687	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.08 ms
+16:13:27.840	127.0.0.1:52687	admin	OK	EXEC[0]	4.37 ms
+16:13:27.841	127.0.0.1:52687	admin	OK	CLOSE[0]	0.06 ms
+16:13:27.841	127.0.0.1:52687	admin	REQUEST	EXIT	0.37 ms
+16:13:27.841	127.0.0.1:52687	admin	OK		0.14 ms
+16:13:29.460	127.0.0.1:52689	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.08 ms
+16:13:29.464	127.0.0.1:52689	admin	OK	EXEC[0]	3.75 ms
+16:13:29.464	127.0.0.1:52689	admin	OK	CLOSE[0]	0.04 ms
+16:13:29.465	127.0.0.1:52689	admin	REQUEST	EXIT	0.25 ms
+16:13:29.465	127.0.0.1:52689	admin	OK		0.08 ms
+16:13:36.721	127.0.0.1:52691	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.12 ms
+16:13:36.726	127.0.0.1:52691	admin	OK	EXEC[0]	4.09 ms
+16:13:36.726	127.0.0.1:52691	admin	OK	CLOSE[0]	0.03 ms
+16:13:36.726	127.0.0.1:52691	admin	REQUEST	EXIT	0.32 ms
+16:13:36.727	127.0.0.1:52691	admin	OK		0.19 ms
+16:13:39.642	127.0.0.1:52693	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.09 ms
+16:13:39.647	127.0.0.1:52693	admin	OK	EXEC[0]	4.67 ms
+16:13:39.647	127.0.0.1:52693	admin	OK	CLOSE[0]	0.08 ms
+16:13:39.648	127.0.0.1:52693	admin	REQUEST	EXIT	0.27 ms
+16:13:39.648	127.0.0.1:52693	admin	OK		0.12 ms
+16:13:39.649	127.0.0.1:52694	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.1 ms
+16:13:39.653	127.0.0.1:52694	admin	OK	EXEC[0]	4.12 ms
+16:13:39.654	127.0.0.1:52694	admin	OK	CLOSE[0]	0.04 ms
+16:13:39.654	127.0.0.1:52694	admin	REQUEST	EXIT	0.34 ms
+16:13:39.654	127.0.0.1:52694	admin	OK		0.15 ms
+16:13:42.134	127.0.0.1:52696	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("alt-J", "Breezeblocks")	0.08 ms
+16:13:42.148	127.0.0.1:52696	admin	OK	EXEC[0]	13.9 ms
+16:13:42.148	127.0.0.1:52696	admin	OK	CLOSE[0]	0.07 ms
+16:13:42.149	127.0.0.1:52696	admin	REQUEST	EXIT	0.36 ms
+16:13:42.149	127.0.0.1:52696	admin	OK		0.15 ms
+16:13:42.236	127.0.0.1:52697	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.1 ms
+16:13:42.243	127.0.0.1:52697	admin	OK	EXEC[0]	6.9 ms
+16:13:42.243	127.0.0.1:52697	admin	OK	CLOSE[0]	0.07 ms
+16:13:42.244	127.0.0.1:52697	admin	REQUEST	EXIT	0.46 ms
+16:13:42.244	127.0.0.1:52697	admin	OK		0.18 ms
+16:13:42.245	127.0.0.1:52698	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.1 ms
+16:13:42.250	127.0.0.1:52698	admin	OK	EXEC[0]	4.87 ms
+16:13:42.251	127.0.0.1:52698	admin	OK	CLOSE[0]	0.17 ms
+16:13:42.253	127.0.0.1:52698	admin	REQUEST	EXIT	0.62 ms
+16:13:42.253	127.0.0.1:52698	admin	OK		0.27 ms
+16:13:42.866	127.0.0.1:52700	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Radiohead", "Burn the Witch")	0.1 ms
+16:13:42.872	127.0.0.1:52700	admin	OK	EXEC[0]	6.07 ms
+16:13:42.873	127.0.0.1:52700	admin	OK	CLOSE[0]	0.07 ms
+16:13:42.873	127.0.0.1:52700	admin	REQUEST	EXIT	0.29 ms
+16:13:42.873	127.0.0.1:52700	admin	OK		0.1 ms
+16:13:42.955	127.0.0.1:52701	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.08 ms
+16:13:42.961	127.0.0.1:52701	admin	OK	EXEC[0]	5.92 ms
+16:13:42.961	127.0.0.1:52701	admin	OK	CLOSE[0]	0.08 ms
+16:13:42.962	127.0.0.1:52701	admin	REQUEST	EXIT	0.57 ms
+16:13:42.962	127.0.0.1:52701	admin	OK		0.23 ms
+16:13:42.963	127.0.0.1:52702	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.1 ms
+16:13:42.971	127.0.0.1:52702	admin	OK	EXEC[0]	7.07 ms
+16:13:42.971	127.0.0.1:52702	admin	OK	CLOSE[0]	0.06 ms
+16:13:42.972	127.0.0.1:52702	admin	REQUEST	EXIT	0.39 ms
+16:13:42.972	127.0.0.1:52702	admin	OK		0.32 ms
+16:13:44.382	127.0.0.1:52705	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Radiohead", "Burn the Witch")	0.09 ms
+16:13:44.393	127.0.0.1:52705	admin	OK	EXEC[0]	3.92 ms
+16:13:44.393	127.0.0.1:52705	admin	OK	CLOSE[0]	0.06 ms
+16:13:44.394	127.0.0.1:52705	admin	REQUEST	EXIT	0.32 ms
+16:13:44.394	127.0.0.1:52705	admin	OK		0.13 ms
+16:13:44.477	127.0.0.1:52706	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.12 ms
+16:13:44.483	127.0.0.1:52706	admin	OK	EXEC[0]	5.57 ms
+16:13:44.483	127.0.0.1:52706	admin	OK	CLOSE[0]	0.04 ms
+16:13:44.484	127.0.0.1:52706	admin	REQUEST	EXIT	0.34 ms
+16:13:44.484	127.0.0.1:52706	admin	OK		0.13 ms
+16:13:44.485	127.0.0.1:52707	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.08 ms
+16:13:44.490	127.0.0.1:52707	admin	OK	EXEC[0]	4.28 ms
+16:13:44.490	127.0.0.1:52707	admin	OK	CLOSE[0]	0.03 ms
+16:13:44.491	127.0.0.1:52707	admin	REQUEST	EXIT	0.24 ms
+16:13:44.491	127.0.0.1:52707	admin	OK		0.1 ms
+16:13:45.328	127.0.0.1:52709	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("The Weeknd", "Can't Feel My Face")	0.09 ms
+16:13:45.339	127.0.0.1:52709	admin	OK	EXEC[0]	10.1 ms
+16:13:45.339	127.0.0.1:52709	admin	OK	CLOSE[0]	0.03 ms
+16:13:45.339	127.0.0.1:52709	admin	REQUEST	EXIT	0.36 ms
+16:13:45.340	127.0.0.1:52709	admin	OK		0.13 ms
+16:13:45.421	127.0.0.1:52710	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.08 ms
+16:13:45.425	127.0.0.1:52710	admin	OK	EXEC[0]	4.44 ms
+16:13:45.425	127.0.0.1:52710	admin	OK	CLOSE[0]	0.03 ms
+16:13:45.426	127.0.0.1:52710	admin	REQUEST	EXIT	0.34 ms
+16:13:45.426	127.0.0.1:52710	admin	OK		0.1 ms
+16:13:45.427	127.0.0.1:52711	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.06 ms
+16:13:45.432	127.0.0.1:52711	admin	OK	EXEC[0]	4.21 ms
+16:13:45.432	127.0.0.1:52711	admin	OK	CLOSE[0]	0.04 ms
+16:13:45.432	127.0.0.1:52711	admin	REQUEST	EXIT	0.25 ms
+16:13:45.432	127.0.0.1:52711	admin	OK		0.12 ms
+16:13:50.176	127.0.0.1:52713	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Soundgarden")	0.09 ms
+16:13:50.181	127.0.0.1:52713	admin	OK	EXEC[0]	5.12 ms
+16:13:50.181	127.0.0.1:52713	admin	OK	CLOSE[0]	0.04 ms
+16:13:50.182	127.0.0.1:52713	admin	REQUEST	EXIT	0.36 ms
+16:13:50.182	127.0.0.1:52713	admin	OK		0.15 ms
+16:14:33.141	127.0.0.1:52950	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.06 ms
+16:14:33.149	127.0.0.1:52950	admin	OK	EXEC[0]	7.89 ms
+16:14:33.149	127.0.0.1:52950	admin	OK	CLOSE[0]	0.03 ms
+16:14:33.150	127.0.0.1:52950	admin	REQUEST	EXIT	0.61 ms
+16:14:33.150	127.0.0.1:52950	admin	OK		0.14 ms
+16:14:35.139	127.0.0.1:52958	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Can't Feel My Face", "The Weeknd")	0.08 ms
+16:14:35.174	127.0.0.1:52958	admin	OK	EXEC[0]	35.27 ms
+16:14:35.174	127.0.0.1:52958	admin	OK	CLOSE[0]	0.03 ms
+16:14:35.175	127.0.0.1:52958	admin	REQUEST	EXIT	0.44 ms
+16:14:35.175	127.0.0.1:52958	admin	OK		0.12 ms
+16:14:35.184	127.0.0.1:52959	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.15 ms
+16:14:35.188	127.0.0.1:52959	admin	OK	EXEC[0]	4.48 ms
+16:14:35.189	127.0.0.1:52959	admin	OK	CLOSE[0]	0.05 ms
+16:14:35.189	127.0.0.1:52959	admin	REQUEST	EXIT	0.43 ms
+16:14:35.189	127.0.0.1:52959	admin	OK		0.18 ms
+16:14:37.830	127.0.0.1:52965	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.06 ms
+16:14:37.835	127.0.0.1:52965	admin	OK	EXEC[0]	4.81 ms
+16:14:37.835	127.0.0.1:52965	admin	OK	CLOSE[0]	0.02 ms
+16:14:37.835	127.0.0.1:52965	admin	REQUEST	EXIT	0.28 ms
+16:14:37.835	127.0.0.1:52965	admin	OK		0.12 ms
+16:14:37.836	127.0.0.1:52966	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.06 ms
+16:14:37.839	127.0.0.1:52966	admin	OK	EXEC[0]	2.92 ms
+16:14:37.840	127.0.0.1:52966	admin	OK	CLOSE[0]	0.04 ms
+16:14:37.840	127.0.0.1:52966	admin	REQUEST	EXIT	0.37 ms
+16:14:37.840	127.0.0.1:52966	admin	OK		0.1 ms
+16:14:54.799	127.0.0.1:52992	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.11 ms
+16:14:54.804	127.0.0.1:52992	admin	OK	EXEC[0]	5.33 ms
+16:14:54.805	127.0.0.1:52992	admin	OK	CLOSE[0]	0.02 ms
+16:14:54.805	127.0.0.1:52992	admin	REQUEST	EXIT	0.21 ms
+16:14:54.805	127.0.0.1:52992	admin	OK		0.08 ms
+16:16:04.312	127.0.0.1:53011	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.06 ms
+16:16:04.320	127.0.0.1:53011	admin	OK	EXEC[0]	7.5 ms
+16:16:04.320	127.0.0.1:53011	admin	OK	CLOSE[0]	0.04 ms
+16:16:04.321	127.0.0.1:53011	admin	REQUEST	EXIT	0.23 ms
+16:16:04.321	127.0.0.1:53011	admin	OK		0.07 ms
+16:16:04.322	127.0.0.1:53012	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.15 ms
+16:16:04.325	127.0.0.1:53012	admin	OK	EXEC[0]	3.31 ms
+16:16:04.325	127.0.0.1:53012	admin	OK	CLOSE[0]	0.09 ms
+16:16:04.326	127.0.0.1:53012	admin	REQUEST	EXIT	0.25 ms
+16:16:04.326	127.0.0.1:53012	admin	OK		0.11 ms
+16:16:27.411	127.0.0.1:53022	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Ornatos Violeta", "Chaga")	0.08 ms
+16:16:27.462	127.0.0.1:53022	admin	OK	EXEC[0]	50.71 ms
+16:16:27.462	127.0.0.1:53022	admin	OK	CLOSE[0]	0.05 ms
+16:16:27.463	127.0.0.1:53022	admin	REQUEST	EXIT	0.52 ms
+16:16:27.463	127.0.0.1:53022	admin	OK		0.34 ms
+16:16:27.552	127.0.0.1:53023	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.18 ms
+16:16:27.555	127.0.0.1:53023	admin	OK	EXEC[0]	3.46 ms
+16:16:27.556	127.0.0.1:53023	admin	OK	CLOSE[0]	0.03 ms
+16:16:27.556	127.0.0.1:53023	admin	REQUEST	EXIT	0.23 ms
+16:16:27.556	127.0.0.1:53023	admin	OK		0.09 ms
+16:16:27.557	127.0.0.1:53024	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.06 ms
+16:16:27.561	127.0.0.1:53024	admin	OK	EXEC[0]	3.79 ms
+16:16:27.561	127.0.0.1:53024	admin	OK	CLOSE[0]	0.04 ms
+16:16:27.562	127.0.0.1:53024	admin	REQUEST	EXIT	0.3 ms
+16:16:27.562	127.0.0.1:53024	admin	OK		0.1 ms
+16:16:32.575	127.0.0.1:53026	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.11 ms
+16:16:32.580	127.0.0.1:53026	admin	OK	EXEC[0]	4.4 ms
+16:16:32.581	127.0.0.1:53026	admin	OK	CLOSE[0]	0.05 ms
+16:16:32.582	127.0.0.1:53026	admin	REQUEST	EXIT	0.69 ms
+16:16:32.582	127.0.0.1:53026	admin	OK		0.22 ms
+16:16:43.770	127.0.0.1:53028	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Chaga", "Ornatos Violeta")	0.09 ms
+16:16:43.813	127.0.0.1:53028	admin	OK	EXEC[0]	42.25 ms
+16:16:43.813	127.0.0.1:53028	admin	OK	CLOSE[0]	0.05 ms
+16:16:43.813	127.0.0.1:53028	admin	REQUEST	EXIT	0.35 ms
+16:16:43.814	127.0.0.1:53028	admin	OK		0.15 ms
+16:16:43.823	127.0.0.1:53029	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.07 ms
+16:16:43.826	127.0.0.1:53029	admin	OK	EXEC[0]	2.77 ms
+16:16:43.826	127.0.0.1:53029	admin	OK	CLOSE[0]	0.05 ms
+16:16:43.827	127.0.0.1:53029	admin	REQUEST	EXIT	0.31 ms
+16:16:43.827	127.0.0.1:53029	admin	OK		0.12 ms
+16:16:47.709	127.0.0.1:53031	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.06 ms
+16:16:47.713	127.0.0.1:53031	admin	OK	EXEC[0]	4.36 ms
+16:16:47.713	127.0.0.1:53031	admin	OK	CLOSE[0]	0.02 ms
+16:16:47.714	127.0.0.1:53031	admin	REQUEST	EXIT	0.2 ms
+16:16:47.714	127.0.0.1:53031	admin	OK		0.12 ms
+16:16:47.715	127.0.0.1:53032	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.09 ms
+16:16:47.718	127.0.0.1:53032	admin	OK	EXEC[0]	2.9 ms
+16:16:47.718	127.0.0.1:53032	admin	OK	CLOSE[0]	0.02 ms
+16:16:47.718	127.0.0.1:53032	admin	REQUEST	EXIT	0.21 ms
+16:16:47.719	127.0.0.1:53032	admin	OK		0.08 ms
+16:16:55.699	127.0.0.1:53038	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.1 ms
+16:16:55.703	127.0.0.1:53038	admin	OK	EXEC[0]	3.56 ms
+16:16:55.703	127.0.0.1:53038	admin	OK	CLOSE[0]	0.02 ms
+16:16:55.704	127.0.0.1:53038	admin	REQUEST	EXIT	0.26 ms
+16:16:55.704	127.0.0.1:53038	admin	OK		0.13 ms
+16:16:59.111	127.0.0.1:53045	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Breezeblocks", "alt-J")	0.09 ms
+16:16:59.143	127.0.0.1:53045	admin	OK	EXEC[0]	31.21 ms
+16:16:59.143	127.0.0.1:53045	admin	OK	CLOSE[0]	0.03 ms
+16:16:59.143	127.0.0.1:53045	admin	REQUEST	EXIT	0.2 ms
+16:16:59.143	127.0.0.1:53045	admin	OK		0.07 ms
+16:16:59.232	127.0.0.1:53046	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.08 ms
+16:16:59.236	127.0.0.1:53046	admin	OK	EXEC[0]	4.12 ms
+16:16:59.236	127.0.0.1:53046	admin	OK	CLOSE[0]	0.03 ms
+16:16:59.237	127.0.0.1:53046	admin	REQUEST	EXIT	0.34 ms
+16:16:59.237	127.0.0.1:53046	admin	OK		0.12 ms
+16:16:59.238	127.0.0.1:53047	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.07 ms
+16:16:59.242	127.0.0.1:53047	admin	OK	EXEC[0]	3.22 ms
+16:16:59.242	127.0.0.1:53047	admin	OK	CLOSE[0]	0.03 ms
+16:16:59.242	127.0.0.1:53047	admin	REQUEST	EXIT	0.25 ms
+16:16:59.243	127.0.0.1:53047	admin	OK		0.09 ms
+16:17:00.390	127.0.0.1:53049	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.11 ms
+16:17:00.393	127.0.0.1:53049	admin	OK	EXEC[0]	2.89 ms
+16:17:00.393	127.0.0.1:53049	admin	OK	CLOSE[0]	0.03 ms
+16:17:00.394	127.0.0.1:53049	admin	REQUEST	EXIT	0.26 ms
+16:17:00.394	127.0.0.1:53049	admin	OK		0.12 ms
+16:18:54.919	127.0.0.1:53077	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.05 ms
+16:18:54.923	127.0.0.1:53077	admin	OK	EXEC[0]	4.25 ms
+16:18:54.923	127.0.0.1:53077	admin	OK	CLOSE[0]	0.03 ms
+16:18:54.924	127.0.0.1:53077	admin	REQUEST	EXIT	0.23 ms
+16:18:54.924	127.0.0.1:53077	admin	OK		0.1 ms
+16:18:54.925	127.0.0.1:53078	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.03 ms
+16:18:54.927	127.0.0.1:53078	admin	OK	EXEC[0]	2.41 ms
+16:18:54.927	127.0.0.1:53078	admin	OK	CLOSE[0]	0.03 ms
+16:18:54.928	127.0.0.1:53078	admin	REQUEST	EXIT	0.26 ms
+16:18:54.928	127.0.0.1:53078	admin	OK		0.08 ms
+16:19:09.330	127.0.0.1:53086	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Harry Styles")	0.05 ms
+16:19:09.335	127.0.0.1:53086	admin	OK	EXEC[0]	4.76 ms
+16:19:09.335	127.0.0.1:53086	admin	OK	CLOSE[0]	0.02 ms
+16:19:09.336	127.0.0.1:53086	admin	REQUEST	EXIT	0.39 ms
+16:19:09.336	127.0.0.1:53086	admin	OK		0.15 ms
+16:20:08.144	127.0.0.1:53106	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.05 ms
+16:20:08.148	127.0.0.1:53106	admin	OK	EXEC[0]	3.21 ms
+16:20:08.148	127.0.0.1:53106	admin	OK	CLOSE[0]	0.03 ms
+16:20:08.148	127.0.0.1:53106	admin	REQUEST	EXIT	0.18 ms
+16:20:08.148	127.0.0.1:53106	admin	OK		0.08 ms
+16:24:27.507	127.0.0.1:53178	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.05 ms
+16:24:27.512	127.0.0.1:53178	admin	OK	EXEC[0]	4.7 ms
+16:24:27.512	127.0.0.1:53178	admin	OK	CLOSE[0]	0.02 ms
+16:24:27.513	127.0.0.1:53178	admin	REQUEST	EXIT	0.2 ms
+16:24:27.513	127.0.0.1:53178	admin	OK		0.08 ms
+16:24:27.514	127.0.0.1:53179	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.03 ms
+16:24:27.516	127.0.0.1:53179	admin	OK	EXEC[0]	2.02 ms
+16:24:27.516	127.0.0.1:53179	admin	OK	CLOSE[0]	0.02 ms
+16:24:27.516	127.0.0.1:53179	admin	REQUEST	EXIT	0.23 ms
+16:24:27.517	127.0.0.1:53179	admin	OK		0.09 ms
+16:24:32.518	127.0.0.1:53181	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Ariana Grande")	0.08 ms
+16:24:32.522	127.0.0.1:53181	admin	OK	EXEC[0]	3.97 ms
+16:24:32.522	127.0.0.1:53181	admin	OK	CLOSE[0]	0.02 ms
+16:24:32.523	127.0.0.1:53181	admin	REQUEST	EXIT	0.18 ms
+16:24:32.523	127.0.0.1:53181	admin	OK		0.1 ms
+16:24:36.884	127.0.0.1:53183	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.05 ms
+16:24:36.887	127.0.0.1:53183	admin	OK	EXEC[0]	2.92 ms
+16:24:36.887	127.0.0.1:53183	admin	OK	CLOSE[0]	0.02 ms
+16:24:36.888	127.0.0.1:53183	admin	REQUEST	EXIT	0.18 ms
+16:24:36.888	127.0.0.1:53183	admin	OK		0.07 ms
+16:24:37.618	127.0.0.1:53185	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.05 ms
+16:24:37.621	127.0.0.1:53185	admin	OK	EXEC[0]	2.81 ms
+16:24:37.621	127.0.0.1:53185	admin	OK	CLOSE[0]	0.02 ms
+16:24:37.621	127.0.0.1:53185	admin	REQUEST	EXIT	0.19 ms
+16:24:37.621	127.0.0.1:53185	admin	OK		0.13 ms
+16:24:41.115	127.0.0.1:53195	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopGlobal()	0.05 ms
+16:24:41.119	127.0.0.1:53195	admin	OK	EXEC[0]	3.66 ms
+16:24:41.119	127.0.0.1:53195	admin	OK	CLOSE[0]	0.02 ms
+16:24:41.120	127.0.0.1:53195	admin	REQUEST	EXIT	0.2 ms
+16:24:41.120	127.0.0.1:53195	admin	OK		0.08 ms
+16:24:42.991	127.0.0.1:53197	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.06 ms
+16:24:42.995	127.0.0.1:53197	admin	OK	EXEC[0]	3.56 ms
+16:24:42.995	127.0.0.1:53197	admin	OK	CLOSE[0]	0.02 ms
+16:24:42.996	127.0.0.1:53197	admin	REQUEST	EXIT	0.2 ms
+16:24:42.996	127.0.0.1:53197	admin	OK		0.08 ms
+16:24:42.997	127.0.0.1:53198	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.03 ms
+16:24:42.999	127.0.0.1:53198	admin	OK	EXEC[0]	2.27 ms
+16:24:42.999	127.0.0.1:53198	admin	OK	CLOSE[0]	0.02 ms
+16:24:43.000	127.0.0.1:53198	admin	REQUEST	EXIT	0.27 ms
+16:24:43.000	127.0.0.1:53198	admin	OK		0.11 ms
+16:24:44.419	127.0.0.1:53200	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Harry Styles", "Adore You")	0.07 ms
+16:24:44.446	127.0.0.1:53200	admin	OK	EXEC[0]	27.13 ms
+16:24:44.447	127.0.0.1:53200	admin	OK	CLOSE[0]	0.04 ms
+16:24:44.447	127.0.0.1:53200	admin	REQUEST	EXIT	0.24 ms
+16:24:44.447	127.0.0.1:53200	admin	OK		0.07 ms
+16:24:44.511	127.0.0.1:53201	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.07 ms
+16:24:44.514	127.0.0.1:53201	admin	OK	EXEC[0]	2.83 ms
+16:24:44.514	127.0.0.1:53201	admin	OK	CLOSE[0]	0.01 ms
+16:24:44.515	127.0.0.1:53201	admin	REQUEST	EXIT	0.18 ms
+16:24:44.515	127.0.0.1:53201	admin	OK		0.06 ms
+16:24:44.516	127.0.0.1:53202	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.03 ms
+16:24:44.518	127.0.0.1:53202	admin	OK	EXEC[0]	2.11 ms
+16:24:44.518	127.0.0.1:53202	admin	OK	CLOSE[0]	0.03 ms
+16:24:44.518	127.0.0.1:53202	admin	REQUEST	EXIT	0.18 ms
+16:24:44.518	127.0.0.1:53202	admin	OK		0.09 ms
+16:24:47.539	127.0.0.1:53205	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.08 ms
+16:24:47.543	127.0.0.1:53205	admin	OK	EXEC[0]	3.66 ms
+16:24:47.543	127.0.0.1:53205	admin	OK	CLOSE[0]	0.02 ms
+16:24:47.544	127.0.0.1:53205	admin	REQUEST	EXIT	0.32 ms
+16:24:47.544	127.0.0.1:53205	admin	OK		0.11 ms
+16:24:50.178	127.0.0.1:53207	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Adore You", "Harry Styles")	0.09 ms
+16:24:50.187	127.0.0.1:53207	admin	OK	EXEC[0]	9.02 ms
+16:24:50.187	127.0.0.1:53207	admin	OK	CLOSE[0]	0.03 ms
+16:24:50.188	127.0.0.1:53207	admin	REQUEST	EXIT	0.25 ms
+16:24:50.188	127.0.0.1:53207	admin	OK		0.08 ms
+16:24:50.264	127.0.0.1:53208	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.09 ms
+16:24:50.268	127.0.0.1:53208	admin	OK	EXEC[0]	3.42 ms
+16:24:50.268	127.0.0.1:53208	admin	OK	CLOSE[0]	0.02 ms
+16:24:50.269	127.0.0.1:53208	admin	REQUEST	EXIT	0.22 ms
+16:24:50.269	127.0.0.1:53208	admin	OK		0.07 ms
+16:24:50.270	127.0.0.1:53209	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.05 ms
+16:24:50.272	127.0.0.1:53209	admin	OK	EXEC[0]	2.39 ms
+16:24:50.273	127.0.0.1:53209	admin	OK	CLOSE[0]	0.02 ms
+16:24:50.273	127.0.0.1:53209	admin	REQUEST	EXIT	0.19 ms
+16:24:50.273	127.0.0.1:53209	admin	OK		0.06 ms
+16:24:51.513	127.0.0.1:53211	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.21 ms
+16:24:51.516	127.0.0.1:53211	admin	OK	EXEC[0]	2.73 ms
+16:24:51.516	127.0.0.1:53211	admin	OK	CLOSE[0]	0.03 ms
+16:24:51.517	127.0.0.1:53211	admin	REQUEST	EXIT	0.54 ms
+16:24:51.517	127.0.0.1:53211	admin	OK		0.1 ms
+16:25:06.650	127.0.0.1:53217	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsGlobal()	0.05 ms
+16:25:06.653	127.0.0.1:53217	admin	OK	EXEC[0]	3.48 ms
+16:25:06.653	127.0.0.1:53217	admin	OK	CLOSE[0]	0.02 ms
+16:25:06.654	127.0.0.1:53217	admin	REQUEST	EXIT	0.2 ms
+16:25:06.654	127.0.0.1:53217	admin	OK		0.07 ms
+16:25:06.655	127.0.0.1:53218	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.03 ms
+16:25:06.657	127.0.0.1:53218	admin	OK	EXEC[0]	2.13 ms
+16:25:06.657	127.0.0.1:53218	admin	OK	CLOSE[0]	0.02 ms
+16:25:06.658	127.0.0.1:53218	admin	REQUEST	EXIT	0.19 ms
+16:25:06.658	127.0.0.1:53218	admin	OK		0.07 ms
+16:25:08.728	127.0.0.1:53220	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveSomeInfo("Harry Styles")	0.12 ms
+16:25:08.732	127.0.0.1:53220	admin	OK	EXEC[0]	3.41 ms
+16:25:08.732	127.0.0.1:53220	admin	OK	CLOSE[0]	0.03 ms
+16:25:08.733	127.0.0.1:53220	admin	REQUEST	EXIT	0.32 ms
+16:25:08.733	127.0.0.1:53220	admin	OK		0.12 ms
+16:25:51.498	127.0.0.1:53275	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.1 ms
+16:25:51.501	127.0.0.1:53275	admin	OK	EXEC[0]	3.24 ms
+16:25:51.502	127.0.0.1:53275	admin	OK	CLOSE[0]	0.02 ms
+16:25:51.502	127.0.0.1:53275	admin	REQUEST	EXIT	0.46 ms
+16:25:51.502	127.0.0.1:53275	admin	OK		0.15 ms
+16:25:53.145	127.0.0.1:53277	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.05 ms
+16:25:53.149	127.0.0.1:53277	admin	OK	EXEC[0]	4.7 ms
+16:25:53.150	127.0.0.1:53277	admin	OK	CLOSE[0]	0.02 ms
+16:25:53.150	127.0.0.1:53277	admin	REQUEST	EXIT	0.17 ms
+16:25:53.150	127.0.0.1:53277	admin	OK		0.07 ms
+16:25:53.151	127.0.0.1:53278	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.04 ms
+16:25:53.154	127.0.0.1:53278	admin	OK	EXEC[0]	2.88 ms
+16:25:53.154	127.0.0.1:53278	admin	OK	CLOSE[0]	0.03 ms
+16:25:53.155	127.0.0.1:53278	admin	REQUEST	EXIT	0.19 ms
+16:25:53.155	127.0.0.1:53278	admin	OK		0.08 ms
+16:25:54.555	127.0.0.1:53280	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("The Weeknd", "Can't Feel My Face")	0.05 ms
+16:25:54.566	127.0.0.1:53280	admin	OK	EXEC[0]	10.93 ms
+16:25:54.566	127.0.0.1:53280	admin	OK	CLOSE[0]	0.06 ms
+16:25:54.567	127.0.0.1:53280	admin	REQUEST	EXIT	0.31 ms
+16:25:54.567	127.0.0.1:53280	admin	OK		0.1 ms
+16:25:54.644	127.0.0.1:53281	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.06 ms
+16:25:54.648	127.0.0.1:53281	admin	OK	EXEC[0]	3.59 ms
+16:25:54.648	127.0.0.1:53281	admin	OK	CLOSE[0]	0.04 ms
+16:25:54.648	127.0.0.1:53281	admin	REQUEST	EXIT	0.24 ms
+16:25:54.648	127.0.0.1:53281	admin	OK		0.11 ms
+16:25:54.650	127.0.0.1:53282	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.05 ms
+16:25:54.653	127.0.0.1:53282	admin	OK	EXEC[0]	2.7 ms
+16:25:54.653	127.0.0.1:53282	admin	OK	CLOSE[0]	0.03 ms
+16:25:54.653	127.0.0.1:53282	admin	REQUEST	EXIT	0.3 ms
+16:25:54.653	127.0.0.1:53282	admin	OK		0.1 ms
+16:25:55.195	127.0.0.1:53284	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("Ornatos Violeta", "Chaga")	0.06 ms
+16:25:55.207	127.0.0.1:53284	admin	OK	EXEC[0]	11.79 ms
+16:25:55.208	127.0.0.1:53284	admin	OK	CLOSE[0]	0.03 ms
+16:25:55.208	127.0.0.1:53284	admin	REQUEST	EXIT	0.21 ms
+16:25:55.208	127.0.0.1:53284	admin	OK		0.08 ms
+16:25:55.282	127.0.0.1:53285	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.05 ms
+16:25:55.287	127.0.0.1:53285	admin	OK	EXEC[0]	5.1 ms
+16:25:55.287	127.0.0.1:53285	admin	OK	CLOSE[0]	0.03 ms
+16:25:55.288	127.0.0.1:53285	admin	REQUEST	EXIT	0.28 ms
+16:25:55.288	127.0.0.1:53285	admin	OK		0.09 ms
+16:25:55.289	127.0.0.1:53286	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.05 ms
+16:25:55.292	127.0.0.1:53286	admin	OK	EXEC[0]	3.04 ms
+16:25:55.293	127.0.0.1:53286	admin	OK	CLOSE[0]	0.03 ms
+16:25:55.293	127.0.0.1:53286	admin	REQUEST	EXIT	0.19 ms
+16:25:55.293	127.0.0.1:53286	admin	OK		0.07 ms
+16:25:55.783	127.0.0.1:53288	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:insertTrack("System of a Down", "Chop Suey!")	0.09 ms
+16:25:55.792	127.0.0.1:53288	admin	OK	EXEC[0]	8.58 ms
+16:25:55.792	127.0.0.1:53288	admin	OK	CLOSE[0]	0.04 ms
+16:25:55.792	127.0.0.1:53288	admin	REQUEST	EXIT	0.3 ms
+16:25:55.792	127.0.0.1:53288	admin	OK		0.17 ms
+16:25:55.865	127.0.0.1:53289	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:giveTopSongsPT()	0.09 ms
+16:25:55.869	127.0.0.1:53289	admin	OK	EXEC[0]	4.33 ms
+16:25:55.869	127.0.0.1:53289	admin	OK	CLOSE[0]	0.02 ms
+16:25:55.870	127.0.0.1:53289	admin	REQUEST	EXIT	0.2 ms
+16:25:55.870	127.0.0.1:53289	admin	OK		0.12 ms
+16:25:55.871	127.0.0.1:53290	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.04 ms
+16:25:55.874	127.0.0.1:53290	admin	OK	EXEC[0]	3.3 ms
+16:25:55.875	127.0.0.1:53290	admin	OK	CLOSE[0]	0.03 ms
+16:25:55.875	127.0.0.1:53290	admin	REQUEST	EXIT	0.33 ms
+16:25:55.875	127.0.0.1:53290	admin	OK		0.08 ms
+16:25:57.066	127.0.0.1:53292	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.09 ms
+16:25:57.069	127.0.0.1:53292	admin	OK	EXEC[0]	2.91 ms
+16:25:57.069	127.0.0.1:53292	admin	OK	CLOSE[0]	0.03 ms
+16:25:57.070	127.0.0.1:53292	admin	REQUEST	EXIT	0.23 ms
+16:25:57.070	127.0.0.1:53292	admin	OK		0.09 ms
+17:28:16.000	127.0.0.1:53878	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Can't Feel My Face", "The Weeknd")	0.05 ms
+17:28:16.035	127.0.0.1:53878	admin	OK	EXEC[0]	32.78 ms
+17:28:16.036	127.0.0.1:53878	admin	OK	CLOSE[0]	0.03 ms
+17:28:16.036	127.0.0.1:53878	admin	REQUEST	EXIT	0.24 ms
+17:28:16.036	127.0.0.1:53878	admin	OK		0.09 ms
+17:28:16.042	127.0.0.1:53879	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.09 ms
+17:28:16.045	127.0.0.1:53879	admin	OK	EXEC[0]	2.31 ms
+17:28:16.045	127.0.0.1:53879	admin	OK	CLOSE[0]	0.06 ms
+17:28:16.046	127.0.0.1:53879	admin	REQUEST	EXIT	0.18 ms
+17:28:16.046	127.0.0.1:53879	admin	OK		0.06 ms
+17:28:17.081	127.0.0.1:53881	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Chaga", "Ornatos Violeta")	0.05 ms
+17:28:17.089	127.0.0.1:53881	admin	OK	EXEC[0]	7.52 ms
+17:28:17.089	127.0.0.1:53881	admin	OK	CLOSE[0]	0.03 ms
+17:28:17.089	127.0.0.1:53881	admin	REQUEST	EXIT	0.2 ms
+17:28:17.089	127.0.0.1:53881	admin	OK		0.09 ms
+17:28:17.097	127.0.0.1:53882	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.11 ms
+17:28:17.100	127.0.0.1:53882	admin	OK	EXEC[0]	3.13 ms
+17:28:17.100	127.0.0.1:53882	admin	OK	CLOSE[0]	0.05 ms
+17:28:17.101	127.0.0.1:53882	admin	REQUEST	EXIT	0.27 ms
+17:28:17.101	127.0.0.1:53882	admin	OK		0.13 ms
+17:28:17.459	127.0.0.1:53884	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:deleteTrack("Chop Suey!", "System of a Down")	0.07 ms
+17:28:17.466	127.0.0.1:53884	admin	OK	EXEC[0]	7.22 ms
+17:28:17.466	127.0.0.1:53884	admin	OK	CLOSE[0]	0.03 ms
+17:28:17.467	127.0.0.1:53884	admin	REQUEST	EXIT	0.21 ms
+17:28:17.467	127.0.0.1:53884	admin	OK		0.09 ms
+17:28:17.473	127.0.0.1:53885	admin	OK	QUERY[0] import module namespace funcs='com.funcs.music' at 'music.xqm'; funcs:trackFromPlaylist()	0.07 ms
+17:28:17.476	127.0.0.1:53885	admin	OK	EXEC[0]	2.93 ms
+17:28:17.476	127.0.0.1:53885	admin	OK	CLOSE[0]	0.03 ms
+17:28:17.477	127.0.0.1:53885	admin	REQUEST	EXIT	0.21 ms
+17:28:17.477	127.0.0.1:53885	admin	OK		0.08 ms
+17:28:22.807	SERVER	admin	OK	Server was stopped (port: 1984).

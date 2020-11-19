@@ -1,16 +1,19 @@
 # edc-tp1
 
-python3 manage.py runserver 8080
-cd app/basex
-java -jar BaseX.jar
-cd bin
-./basexserver
+## CORRER PROJETO: 
+python3 manage.py runserver 8080 
+cd app/basex  
+cd bin 
+./basexserver 
 
-CONFIGURAR BASEX:
+## CASO APAREÇA OUTRO PATH, TENTAR CONFIGURAR BASEX:
 1. ir a pasta do jar: 
-preferences
-definir database path para o teu
-database properties, ver se o path esta a dar direito 
-clicar em optimize,
-se nao der fazer sudo em tudo
+2. preferences
+3. definir database com paths corretos
+4. database properties, ver se os paths estao corretos
+5. clicar em optimize all
 
+## ELEMENTOS DO GRUPO:
+Bruno Aguiar, 80177
+Bruno Castro, 80190
+Paulo Sousa,  80000
